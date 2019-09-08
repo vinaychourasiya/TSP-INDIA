@@ -84,7 +84,7 @@ def Read_n_Plot():
     plt.figure(figsize=(15, 13))
     pos=nx.get_node_attributes(D,'pos')
     nx.draw(D,pos,node_size=10,node_color="black", edge_color="blue")
-    plt.savefig("indiatspmap.png")
+    plt.savefig("indiatspmap1.png")
 
 
 
