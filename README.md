@@ -2,7 +2,7 @@
 <h4>TSP problems for india, all most all district consider as city and Delhi is strating point for sales person.
 We used Lin-karnighan algorithm for solving the TSP problem. The Linkarnighan algorithm code is direclty taken from <a href="http://www.math.uwaterloo.ca/tsp/concorde.html">corcorde solver</a></h4>
 
-#Results
+<h2>Results</h2>
 
 <img src = "indiatspmap.png">
 
